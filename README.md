@@ -79,7 +79,7 @@ The application uses unidentifiable global keyboard shortcuts that won't be dete
 ## Prerequisites
 
 - Node.js (v16 or higher)
-- npm or bun package manager
+- npm package manaager
 - Subscription on https://www.interviewcoder.co/settings
 - Screen Recording Permission for Terminal/IDE
   - On macOS:
